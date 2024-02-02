@@ -39,6 +39,7 @@
                     </ul>
                 </div>
             </div>
+            <div><h6 style="color:#ffffff;">Rizz Inghug and Dexter Mano's blog</h6></div>
         </nav>
         <!-- Masthead-->
         <header class="masthead">

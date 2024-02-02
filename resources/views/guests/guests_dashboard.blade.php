@@ -4,5 +4,6 @@
   
 @section('contents')
 
+@include('layouts.integration')
 
 @endsection
